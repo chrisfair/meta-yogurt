@@ -9,7 +9,6 @@ IMAGE_INSTALL = " \
     packagegroup-machine-base \
     packagegroup-core-boot \
     packagegroup-hwtools \
-    packagegroup-benchmark \
     packagegroup-update \
     packagegroup-userland \
     packagegroup-rt \
